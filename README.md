@@ -1,6 +1,6 @@
 # LINUPA -LINUX USER PIN AUTHENTICATION.
 ________________________________________________________
- - Unofficial
+ - Official
  - Currently in: Beta.
  - Released Date: 09/16/2026. [MM/DD/YYYY]
  - App version: v1.0.0.0 - updated: 09/16/2026. [MM/DD/YYYY]
