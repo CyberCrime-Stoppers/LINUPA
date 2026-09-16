@@ -1,5 +1,14 @@
-# LINUPA
-LINUPA - LINUX USER PIN AUTHENTICATION. Will be a way to login with a PIN rather then a Password. So your Password will be for your System Protection. Learn More Here. README.md
+# LINUPA -LINUX USER PIN AUTHENTICATION.
+________________________________________________________
+ - Unofficial
+ - Currently in: Beta.
+ - Released Date: 07/03/2026. [MM/DD/YYYY]
+ - App version: v1.2.9 - updated: 09/10/2026. [MM/DD/YYYY]
+ - Language: Python + GTK4 + Libadwaita.
+ - Opened Sourced & Publicly Available.
+_________________________________________________________
+
+ ### _Will be a way to login with a PIN rather then a Password. So your Password will be for your System Protection. PIN will just Sign You, and Perhaps Linux Terminal. with a popup window for Local System Level only, so no Remote tools will be involved on using PIN access. for Security Purposes. User will have an option to use it through remote access services. but at their own risk. off and disabled, or not installed dependencies._
 
 ### The Project is also @OpenDesktop Website
 https://www.opendesktop.org/p/2371474/
